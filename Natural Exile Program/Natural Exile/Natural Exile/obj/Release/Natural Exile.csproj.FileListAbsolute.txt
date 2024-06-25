@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\bin\Release\Natural Exile.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\bin\Release\Natural Exile.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Release\Natural Exile.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Release\Natural Exile.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Release\Natural Exile.pdb

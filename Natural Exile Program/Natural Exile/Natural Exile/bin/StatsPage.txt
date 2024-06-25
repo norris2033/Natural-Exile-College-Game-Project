@@ -1,0 +1,10 @@
++-----------------------------------+
+|        Current Level: __          |
+|HP:        __  Mana:         __    |
+|Strength:  __  Dexterity:    __    |
+|Endurance: __  Willpower:    __    |
+|Melee Dmg: __  Magic Dmg:    __    |
+|Armor:     __  Magic Resist: __    |
+|Melee Hit: __% Magic Hit:    __%   |
+|Exp:       __  Exp to Level: __    |
++-----------------------------------+

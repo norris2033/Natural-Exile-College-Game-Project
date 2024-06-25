@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Natural Exile">
+</Property><Property Name="Solution File" Value="E:\GVE Hmwrk2\Natural Exile\Natural Exile.sln">
+</Property><Property Name="User Options File" Value="E:\GVE Hmwrk2\Natural Exile\Natural Exile.suo">
+</Property><Property Name="Date" Value="Monday, February 04, 2013">
+</Property><Property Name="Time" Value="13:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Natural Exile.sln" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Natural Exile.suo" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile.suo">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Natural Exile.csproj" Description="Project file successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Natural Exile.csproj">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Natural Exile.csproj.user" Description="Project user file successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Natural Exile.csproj.user">
+</Event><Event ErrorLevel="1" Project="Natural Exile" Source="..\Natural Exile.cs" Description="Backed up project may not build.  Project contains linked file: E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Natural Exile.cs">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="..\Natural Exile.cs" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Natural Exile.cs">
+</Event><Event ErrorLevel="1" Project="Natural Exile" Source="..\Natural Exile.Designer.cs" Description="Backed up project may not build.  Project contains linked file: E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Natural Exile.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="..\Natural Exile.Designer.cs" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Natural Exile.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Program.cs" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Program.cs">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Properties\Settings.settings" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Properties\Settings.settings">
+</Event><Event ErrorLevel="1" Project="Natural Exile" Source="..\Natural Exile.resx" Description="Backed up project may not build.  Project contains linked file: E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Natural Exile.resx">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="..\Natural Exile.resx" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Natural Exile.resx">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Properties\Resources.resx" Description="File successfully backed up as E:\GVE Hmwrk2\Natural Exile\Backup\Natural Exile\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Natural Exile.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Natural Exile" Source="Natural Exile\Natural Exile.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Natural Exile.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Natural Exile.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Natural Exile" Source="Natural Exile\Natural Exile.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

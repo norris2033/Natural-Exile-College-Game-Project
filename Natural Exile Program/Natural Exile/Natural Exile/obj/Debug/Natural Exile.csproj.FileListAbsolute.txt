@@ -1,0 +1,52 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\bin\Debug\Natural Exile.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\bin\Debug\Natural Exile.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Debug\Natural Exile.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Debug\Natural Exile.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Debug\Natural Exile.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\Natural Exile.exe
+E:\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\Natural Exile.pdb
+E:\GVE Hmwrk2\Natural Exile\Natural Exile\bin\Debug\Natural Exile.exe
+E:\GVE Hmwrk2\Natural Exile\Natural Exile\bin\Debug\Natural Exile.pdb
+E:\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\ResolveAssemblyReference.cache
+E:\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\GenerateResource.read.1.tlog
+E:\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\GenerateResource.write.1.tlog
+E:\School\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\Natural Exile.exe
+E:\School\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\Natural Exile.pdb
+E:\School\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\bin\Debug\Natural Exile.exe
+E:\School\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\bin\Debug\Natural Exile.pdb
+E:\School\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\ResolveAssemblyReference.cache
+E:\School\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\School\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\School\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\GenerateResource.read.1.tlog
+E:\School\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\School\Adrian's School Work\Spring 2013\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\Natural Exile.exe
+C:\Users\Admin\School\Adrian's School Work\Spring 2013\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\Natural Exile.pdb
+C:\Users\Admin\School\Adrian's School Work\Spring 2013\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\bin\Debug\Natural Exile.exe
+C:\Users\Admin\School\Adrian's School Work\Spring 2013\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\bin\Debug\Natural Exile.pdb
+C:\Users\Admin\School\Adrian's School Work\Spring 2013\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\School\Adrian's School Work\Spring 2013\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\School\Adrian's School Work\Spring 2013\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\Natural Exile.csproj.GenerateResource.Cache
+C:\Users\Admin\School\Adrian's School Work\Spring 2013\Games and Virtual Environments\Homework 2\GVE Hmwrk2\Natural Exile\Natural Exile\obj\Debug\Natural Exile.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Homework 2\ForDRJ2\Natural Exile Program\Natural Exile\Natural Exile\bin\Debug\Natural Exile.exe
+C:\Users\Adrian\Desktop\Homework 2\ForDRJ2\Natural Exile Program\Natural Exile\Natural Exile\bin\Debug\Natural Exile.pdb
+C:\Users\Adrian\Desktop\Homework 2\ForDRJ2\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Homework 2\ForDRJ2\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Adrian\Desktop\Homework 2\ForDRJ2\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Homework 2\ForDRJ2\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\Homework 2\ForDRJ2\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Homework 2\ForDRJ2\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.exe
+C:\Users\Adrian\Desktop\Homework 2\ForDRJ2\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.pdb
+C:\Users\Adrian\Desktop\Homework 2\Update for GIT Repo\Natural Exile Program\Natural Exile\Natural Exile\bin\Debug\Natural Exile.exe
+C:\Users\Adrian\Desktop\Homework 2\Update for GIT Repo\Natural Exile Program\Natural Exile\Natural Exile\bin\Debug\Natural Exile.pdb
+C:\Users\Adrian\Desktop\Homework 2\Update for GIT Repo\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Homework 2\Update for GIT Repo\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Adrian\Desktop\Homework 2\Update for GIT Repo\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Homework 2\Update for GIT Repo\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\Homework 2\Update for GIT Repo\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Homework 2\Update for GIT Repo\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.exe
+C:\Users\Adrian\Desktop\Homework 2\Update for GIT Repo\Natural Exile Program\Natural Exile\Natural Exile\obj\Debug\Natural Exile.pdb
